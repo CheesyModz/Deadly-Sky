@@ -26,6 +26,12 @@ ESC - Pause/Escape
 
 Left Mouse Button - Shoot/fire
 
+# Credits
+Game assets from https://kenney.nl/
+
+Game music from https://www.chosic.com/download-audio/24452/
+
+
 # Contact - For feedback/suggestions and/or issues/support
 Email: Garyhuang325@gmail.com
 

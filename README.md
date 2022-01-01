@@ -5,10 +5,11 @@ Game Icon: ![image](https://user-images.githubusercontent.com/49135331/147681790
 
 **NOTE** Some of the files are missing due to being to large to upload on GitHub. To download/view the entire project follow the Google Drive link.
 
-# How to download (Windows Users)
+# How to download and play (Windows Users)
 1. Download all contents in the `Build` folder listed in the Google Drive [https://drive.google.com/drive/folders/1TRupCv-Yn2-9XOoOvbBX6RlMZKqNJOGO?usp=sharing]
 2. Make sure all contents are in the same directory
 3. Install Unity (The game can only be ran by users with Unity? I think. Also, there is a free personal plan for 12 monthhs I believe)
+4. Run Deadly Sky
 
 # Preview
 https://user-images.githubusercontent.com/49135331/147682602-4d8268b8-9638-4bc8-9bb4-0b2e3b73231e.mp4
